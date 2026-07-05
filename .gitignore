@@ -1,0 +1,16 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Environnement local (chemins propres à la machine) ---
+.env
+.vscode/settings.json
+
+# --- OS ---
+Thumbs.db
+.DS_Store
+
+# --- Fusion 360 / éditeur ---
+*.log
+*.tmp
